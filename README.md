@@ -1,0 +1,1 @@
+Project to practice html and css skills - ODIN fundamentals.
